@@ -1,0 +1,23 @@
+Yulia{
+    What the fuck is this*
+    What are you doing?*
+}
+
+Diego{
+    rabble*
+    Blah*
+    blah blah blah*
+}
+
+@player{
+    Nothing*->{
+        Yulia{ You're lying* }
+        Diego{ Yeah she is* }
+    } 
+    Everything*
+    Go away*->{
+        Yulia{ NO* }
+    }
+}
+
+Diego{ There's a lot of yelling going on right now* }

@@ -1,0 +1,9 @@
+Diego{ Hello* }
+
+@player{
+	Fuck you*
+	Hello*
+	Blahblah*
+}
+
+Diego{ Ok* }
